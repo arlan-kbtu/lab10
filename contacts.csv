@@ -1,0 +1,4 @@
+first_name , phone,last_name, email
+John, 1234567890, Doe, john@example.com
+Jane, 9876543210,Smith, jane@example.com
+Mike, 5551234567, mike@example.com
